@@ -165,7 +165,7 @@ export const botConfig = {
       // Plural display name.
       namePlural: "coins",
       // Currency symbol shown in balances.
-      symbol: "$",
+      symbol: "•",
     },
 
     // Starting balance for new users.
@@ -183,7 +183,7 @@ export const botConfig = {
 
     // Beg command random payout range.
     begMin: 5,
-    begMax: 50,
+    begMax: 25,
 
     // Command cooldowns (milliseconds).
     cooldowns: {
